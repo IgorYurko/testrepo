@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [05/Jan/2017:15:51:57 +0200] "GET /Spring4MVCApacheTiles3Example HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [05/Jan/2017:15:52:00 +0200] "GET /Spring4MVCApacheTiles3Example/ HTTP/1.1" 200 1131 http-bio-8080-exec-2 2969
+0:0:0:0:0:0:0:1 - - [05/Jan/2017:15:52:00 +0200] "GET /Spring4MVCApacheTiles3Example/static/css/bootstrap.css;jsessionid=B589428111BBE5DC6541284194B399D5 HTTP/1.1" 200 147980 http-bio-8080-exec-3 16
+0:0:0:0:0:0:0:1 - - [05/Jan/2017:15:52:00 +0200] "GET /Spring4MVCApacheTiles3Example/static/css/app.css;jsessionid=B589428111BBE5DC6541284194B399D5 HTTP/1.1" 200 1849 http-bio-8080-exec-5 15
+0:0:0:0:0:0:0:1 - - [05/Jan/2017:15:52:00 +0200] "GET /Spring4MVCApacheTiles3Example/static/img/Linux-icon.png HTTP/1.1" 304 - http-bio-8080-exec-6 31
